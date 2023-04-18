@@ -19,7 +19,7 @@ public class Main {
                 System.out.println(Yıl + " Artık yıldır.");
             }
             else {
-                System.out.println(Yıl + " Artık yıldır.");
+                System.out.println(Yıl + " Artık yıl değildir.");
             }
         }
     }
